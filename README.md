@@ -90,9 +90,9 @@ Universidad del Quindío
 
 ## 📊 GitHub Stats
 
-![Miluzka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miluskasaire&theme=dark&show_icons=true)
+![Miluzka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiluzkaMary&theme=dark&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miluskasaire&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiluzkaMary&theme=dark&layout=compact)
 
 ---
 
