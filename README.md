@@ -1,23 +1,7 @@
 # 👋 Miluzka Saire Cusicuna
 
 **Estudiante de Ingeniería de Sistemas | Backend Developer**
-
 Estudiante de ingeniería de sistemas con experiencia práctica en desarrollo backend. He trabajado con Java, Spring Boot y tecnologías cloud como AWS y Kubernetes. 
-
----
-
-## 👨‍💻 Sobre mí
-
-Soy estudiante de ingeniería de sistemas (cursando noveno semestre) y tengo experiencia trabajando en proyectos backend reales. 
-
-Durante mis experiencias laborales he trabajado con:
-- **Backend**: Java (Spring Boot), JavaScript y TypeScript
-- **Cloud & DevOps**: AWS, Docker, Kubernetes
-- **CI/CD**: Jenkins, GitHub Actions
-- **Bases de Datos**: PostgreSQL, MySQL, DynamoDB
-- **Testing**: Pruebas unitarias, funcionales, E2E
-
-Intento escribir código limpio y entiendo la importancia de las buenas prácticas.
 
 ---
 
