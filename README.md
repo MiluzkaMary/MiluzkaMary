@@ -1,115 +1,71 @@
-# 👋 Miluzka Saire Cusicuna
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!👋&animation=fadeIn&color=1:58d1b2,100:2755c2)
 
-**Estudiante de Ingeniería de Sistemas | Backend Developer**
-Estudiante de ingeniería de sistemas con experiencia práctica en desarrollo backend. He trabajado con Java, Spring Boot y tecnologías cloud como AWS y Kubernetes. 
-
----
-
-## 🛠️ Stack Técnico
-
-### Lenguajes & Runtimes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Frameworks & Librerías
-- **Spring Boot** | Spring Security | Spring Data JPA
-- **Node.js** | Fundamentos de Spring WebFlux y programación reactiva (Project Reactor)
-
-### Arquitectura & Patrones
-- Microservicios | APIs RESTful | Clean Architecture
-- SOLID Principles | Event-Driven Architecture (RabbitMQ)
-- API Documentation (Swagger/OpenAPI)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-- AWS EKS | RDS | Aurora | DynamoDB | S3
-- CI/CD Pipelines
-- Git | GitHub
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-527FFF?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-- PostgreSQL | MySQL | Amazon RDS
-- Diseño y optimización de modelos de datos relacionales
-
-### Testing & Quality
-- JUnit | Karate | Cucumber
-- Playwright (E2E) | Apache JMeter | Postman
-- Pruebas unitarias, funcionales y de aceptación
-
-### Security
-- OAuth2 | JWT
-- OWASP Top 10
-- Autenticación y autorización de APIs
-
-### Monitoring & Observability
-![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=for-the-badge&logo=grafana&logoColor=white)
-
-- Grafana | Loki | Prometheus
-- Configuración de dashboards y alertas
+### 👩‍💻 &nbsp;About Me:
+Welcome to my GitHub profile! I'm a Computer Systems Engineer from Colombia, specializing in Backend Development, Java, Spring Boot, Docker, Kubernetes and AWS.
+- 🎓 Studying at Universidad del Quindío, currently in my last semesters.
+- 💻 Passionate about Backend Development and Cloud technologies.
+- 🚀 Excited about learning microservices architecture and DevOps best practices.
+- 🌱 Committed to writing clean code and building scalable systems.
+- 📫 Reach me on LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Miluzka%20Saire-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/miluzka-saire)
 
 ---
 
-## 🎓 Educación
+### 🛠 &nbsp;Languages and Tools:
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+</p>
 
-**Ingeniería de Sistemas y Computación**  
+---
+
+### 💡 &nbsp;What I Know:
+- **Backend Development**: Java, Spring Boot, Spring Security, Spring Data JPA
+- **Microservices**: APIs RESTful, Event-Driven Architecture, RabbitMQ
+- **Cloud & DevOps**: AWS (EKS, RDS, S3), Docker, Kubernetes, Jenkins, GitHub Actions
+- **Databases**: PostgreSQL, MySQL, DynamoDB
+- **Testing**: JUnit, Karate, Cucumber, Playwright
+- **Security**: JWT, OAuth2, OWASP Top 10
+- **Monitoring**: Grafana, Prometheus, Loki
+
+---
+
+### 🎓 &nbsp;Education:
+**Computer Systems Engineering**  
 Universidad del Quindío  
 *2022 - 2026*
 
----
-
-## 🌍 Idiomas
-
-- **Inglés**: C1
-- **Español**: Nativo
+**Languages**: English (C1) | Spanish (Native)
 
 ---
 
-## 📈 Habilidades Destacadas
-
-- ✅ Diseño de arquitecturas escalables y desacopladas
-- ✅ Implementación de APIs RESTful bien documentadas
-- ✅ Automatización de procesos de CI/CD
-- ✅ Seguridad en APIs (JWT, OAuth2, OWASP)
-- ✅ Monitoreo y observabilidad de aplicaciones
-- ✅ Trabajo colaborativo en equipos distribuidos
-- ✅ Comunicación asíncrona entre servicios
-- ✅ Buenas prácticas de desarrollo y documentación
+### 🔥 &nbsp;My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiluzkaMary&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiluzkaMary&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 📊 GitHub Stats
-
-![Miluzka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiluzkaMary&theme=dark&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiluzkaMary&theme=dark&layout=compact)
-
----
-
-## 🎯 Lo que quiero aprender
-
-- 🔍 Entender mejor cómo funcionan las arquitecturas serverless
-- 📚 Profundizar en Spring WebFlux y programación reactiva
-- 🚀 Contribuir a algún proyecto open source
-- 🧠 Mejorar mis habilidades en system design
-- 👥 Aprender más sobre cómo trabajar en equipos distribuidos
+### 🎯 &nbsp;Currently:
+- 🌱 Learning about serverless architectures
+- 📚 Exploring Spring WebFlux and reactive programming
+- 🚀 Looking to contribute to open source projects
+- 💪 Improving system design skills
 
 ---
 
 <div align="center">
 
-**Si tienes algún proyecto interesante, me encantaría colaborar 👀**
+**If you have an interesting project, I'd love to collaborate! 👀**
 
-*Estudiante aprendiendo a ser mejor desarrolladora cada día*
+*Estudent learning to be a better developer every day* 🚀
 
 </div>
